@@ -1,0 +1,12 @@
+com/fulda/freelancer/model/Skills.java
+ com.fulda.freelancer.model.Skills
+com/fulda/freelancer/ManagementApplication.java
+ com.fulda.freelancer.ManagementApplication
+com/fulda/freelancer/interfaces/FreelanceProfileRepo.java
+ com.fulda.freelancer.interfaces.FreelanceProfileRepo
+com/fulda/freelancer/controller/UIActionsController.java
+ com.fulda.freelancer.controller.UIActionsController
+com/fulda/freelancer/service/FreelancerService.java
+ com.fulda.freelancer.service.FreelancerService
+com/fulda/freelancer/model/FreelancerProfile.java
+ com.fulda.freelancer.model.FreelancerProfile
